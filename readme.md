@@ -1,3 +1,5 @@
+https://danielacovi.github.io/trivia-ludum/
+
 Descripción de trivia LUDUM
 Pantalla 1: Le damos la bienvenida al juego LUDUM y le hacemos saber que LUDUM es la trivia del momento, lo invitamos a jugar no sin antes pedirle su nombre y dar click al botón Go para iniciar.
 Pantalla 2. Luego de recibir un caluroso saludo con su nombre, le pedimos elegir el tema en el que quiere medir sus conocimientos, puede elegir entre dos botones: opción peliculas o la opción paises.
