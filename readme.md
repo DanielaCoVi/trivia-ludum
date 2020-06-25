@@ -6,12 +6,12 @@ Pantalla 4: Ahora el usuario sabrá que tan bien le fue en el juego. Le presenta
 
 Proceso de desarrollo/entregables
 1. Cronograma de actividades
-https://repl.it/@DanielaCoVi/WideGenuineEvent#proyecto_trivia_cronograma_actividades.pdf
+https://github.com/DanielaCoVi/trivia-ludum/blob/master/readme/proyecto_trivia_cronograma_actividades.pdf
 2. Prototipo-Diseño interfaz usuario
 2.1 Flujo de usuario 
-https://repl.it/@DanielaCoVi/WideGenuineEvent#proyecto_trivia_flujo_de_usuario.pdf
+https://github.com/DanielaCoVi/trivia-ludum/blob/master/readme/proyecto_trivia_flujo_de_usuario.pdf
 2.2 Bosquejo 
-A.https://repl.it/@DanielaCoVi/WideGenuineEvent#readme/proyecto_trivia_flujo_de_usuario.pdf
+A.https://github.com/DanielaCoVi/trivia-ludum/blob/master/readme/proyecto_trivia_bosquejo.pdf
 B.https://www.figma.com/file/KhaCmKva5fPxsfATtjbAy6/Untitled?node-id=1%3A2
 3. Implementación interfaz usuario (MVP)
 https://repl.it/@DanielaCoVi/WideGenuineEvent
